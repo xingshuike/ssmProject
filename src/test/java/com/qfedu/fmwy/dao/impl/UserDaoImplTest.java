@@ -11,7 +11,7 @@ public class UserDaoImplTest {
         while (a) {
 
             i++;
-            if (i>10){
+            if (i>100){
                 a = false;
             }
             break;
